@@ -1,0 +1,21 @@
+sentence,audio_file
+What is an API? Explain with examples.,tts_dataset\audio\sentence_1.mp3
+How does REST API differ from SOAP API?,tts_dataset\audio\sentence_2.mp3
+"What is OAuth, and how does it work in API authentication?",tts_dataset\audio\sentence_3.mp3
+Explain the importance of using CUDA in parallel programming.,tts_dataset\audio\sentence_4.mp3
+Describe the role of TTS systems in AI applications.,tts_dataset\audio\sentence_5.mp3
+What is the function of a GPU in deep learning models?,tts_dataset\audio\sentence_6.mp3
+Explain WebSockets and their advantages over HTTP.,tts_dataset\audio\sentence_7.mp3
+How do you manage state in a React application using Redux?,tts_dataset\audio\sentence_8.mp3
+Explain containerization and how Docker is used in DevOps.,tts_dataset\audio\sentence_9.mp3
+"What is Kubernetes, and how does it handle microservices?",tts_dataset\audio\sentence_10.mp3
+Describe the role of an API gateway in microservices architecture.,tts_dataset\audio\sentence_11.mp3
+Explain JWT and its role in authentication.,tts_dataset\audio\sentence_12.mp3
+"What is a machine learning pipeline, and how does TensorFlow use them?",tts_dataset\audio\sentence_13.mp3
+Explain continuous integration in a CI/CD pipeline.,tts_dataset\audio\sentence_14.mp3
+How do you fine-tune a pre-trained model using transfer learning in PyTorch?,tts_dataset\audio\sentence_15.mp3
+The API allows two systems to communicate by exposing functionality to external systems.,tts_dataset\audio\sentence_16.mp3
+CUDA enables efficient parallel processing on GPUs.,tts_dataset\audio\sentence_17.mp3
+OAuth provides secure resource access without revealing credentials.,tts_dataset\audio\sentence_18.mp3
+REST architecture ensures that API calls are stateless.,tts_dataset\audio\sentence_19.mp3
+TTS converts written text into audible speech.,tts_dataset\audio\sentence_20.mp3
