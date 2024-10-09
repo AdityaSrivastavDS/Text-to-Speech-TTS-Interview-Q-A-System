@@ -83,6 +83,9 @@ The dataset contains technical interview questions such as:
 Each question is converted to an audio file using Google TTS and stored in ttt-dataset/audio/.
 
 ## Running the Project
+
+### Note: If you had cloned this project and wanted to use it then simply run gui_app.py file for GUI App else run Q&A_System.py else follow below steps.
+
 1. Generate the dataset:
 ```bash
 python data_generator.py
